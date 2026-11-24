@@ -1,5 +1,5 @@
 """Các thuật toán đồ thị dùng trong hệ thống đường sắt Bling Candy.
-
+""fix tiep dii""
 Module này chỉ xử lý dữ liệu, không phụ thuộc vào Tkinter hay giao diện.
 """
 import math
