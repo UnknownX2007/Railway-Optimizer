@@ -965,7 +965,7 @@ class RailwayApp:
                 "Nhà ga đang hỏng (bỏ qua): "
                 + ", ".join(station.name for station in broken_stations)
             )
-        lines.append("")
+        lines.append("\n")
         lines.append("Các tuyến màu xanh lá là những tuyến thuộc cây khung nhỏ nhất")
         self._set_result("".join(lines))
         self._set_status(
