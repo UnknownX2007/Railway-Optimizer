@@ -1184,7 +1184,7 @@ class RailwayApp:
             self.next_station_id += 1
 
         sample_edges = [
-            (0, 1, 174),
+            (0, 1, 175),
             (1, 2, 310),
             (1, 3, 442),
             (2, 3, 285),
